@@ -1,0 +1,16 @@
+# Arquivos de Sistema
+.DS_Store
+Thumbs.db
+
+# IDEs (Você deve usar IntelliJ ou VS Code)
+.idea/
+.vscode/
+*.iml
+
+# Node/Frontend (Caso você adicione SASS/Gulp/Webpack depois)
+node_modules/
+dist/
+*.log
+
+# WordPress (Só por segurança, caso rode na pasta errada)
+wp-config.php
