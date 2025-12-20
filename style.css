@@ -1,12 +1,23 @@
-/*  Theme Name: Dalpe Theme  
-Theme URI: http://www.jonathan.eng.br  
-Author: Jonathan Nascimento  
-Author URI: http://www.jonathan.eng.br/dalpe-theme  
-Description: This is my first custom WordPress theme developed following the AprendaWP course.  
-Version: 1.0  
-Tags: two-columns, left-sidebar, custom-header, custom-menu, custom-logo, blog  
-Text Domain: aprendawp  
-License: GNU General Public License v2 or later
-License URI: http://www.gnu.org/licenses/gpl-2.0.html
+/*
+Theme Name: Dalpe Theme
+Theme URI: https://github.com/jonathannto/dalpe-theme
+Author: Jonathan Nascimento
+Author URI: https://jonathan.eng.br
+Description: This is my first custom WordPress theme developed following the AprendaWP course.
+Version: 1.0.0
+Requires at least: 6.0
+Tested up to: 6.4
+Requires PHP: 7.4
+License: GNU General Public License v3.0
+License URI: http://www.gnu.org/licenses/gpl-3.0.html
+Text Domain: dalpe-theme
 */
+
+/* Seu CSS começa aqui */
+body {
+    font-family: sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+}
 
